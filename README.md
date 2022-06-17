@@ -1,6 +1,7 @@
 # KcsApp-by-ReactNativ
 Karatoa courier service App.
-<img src="/assets/to/KcsAppMokupForGitHub.png" alt="Alt text" title="Optional title">
+![KcsAppMokupForGitHub](https://user-images.githubusercontent.com/86024139/174281222-10771a25-4423-4b1f-a737-dd82bfcca37e.png)
+
 
 This Android app is made with {react native} library.
 
